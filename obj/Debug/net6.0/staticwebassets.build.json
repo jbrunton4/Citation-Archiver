@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0A1BZwT17XA8az78ufntAJmNgqw0wsedQO4C2v1082I=",
+  "Hash": "NWztoj1DoTLuM2bx+rzAuPkO3RP1Ulrv0qFu+KfW/Hk=",
   "Source": "CitationArchiver",
   "BasePath": "_content/CitationArchiver",
   "Mode": "Default",
@@ -10,34 +10,17 @@
     {
       "Name": "CitationArchiver\\wwwroot",
       "Source": "CitationArchiver",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\brunt\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css",
-      "SourceId": "Blazored.Toast",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\brunt\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\",
-      "BasePath": "_content/Blazored.Toast",
-      "RelativePath": "Blazored.Toast.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\brunt\\.nuget\\packages\\blazored.toast\\4.1.0\\staticwebassets\\Blazored.Toast.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CitationArchiver.styles.css",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CitationArchiver.styles.css",
       "SourceId": "CitationArchiver",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "CitationArchiver.styles.css",
       "AssetKind": "All",
@@ -48,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CitationArchiver.styles.css"
+      "OriginalItemSpec": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CitationArchiver.styles.css"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CitationArchiver.bundle.scp.css",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CitationArchiver.bundle.scp.css",
       "SourceId": "CitationArchiver",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "CitationArchiver.bundle.scp.css",
       "AssetKind": "All",
@@ -65,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CitationArchiver.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CitationArchiver.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -119,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -153,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -204,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -221,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\css\\site.css",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\favicon.ico",
       "SourceId": "CitationArchiver",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\wwwroot\\",
       "BasePath": "_content/CitationArchiver",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

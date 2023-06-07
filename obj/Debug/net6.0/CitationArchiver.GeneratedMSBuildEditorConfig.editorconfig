@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CitationArchiver
 build_property.RootNamespace = CitationArchiver
-build_property.ProjectDir = C:\Users\brunt\source\repos\CitationArchiver\
+build_property.ProjectDir = C:\Users\brunt\Documents\GitHub\Citation-Archiver\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\brunt\source\repos\CitationArchiver
+build_property.MSBuildProjectDirectory = C:\Users\brunt\Documents\GitHub\Citation-Archiver
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/App.razor]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/Pages/Counter.razor]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/Pages/FetchData.razor]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/Pages/Index.razor]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/Shared/SurveyPrompt.razor]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/_Imports.razor]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/Shared/MainLayout.razor]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ro6xe9w686
 
-[C:/Users/brunt/source/repos/CitationArchiver/Shared/NavMenu.razor]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8heaj6u0co
 
-[C:/Users/brunt/source/repos/CitationArchiver/Pages/Error.cshtml]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/Pages/_Host.cshtml]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brunt/source/repos/CitationArchiver/Pages/_Layout.cshtml]
+[C:/Users/brunt/Documents/GitHub/Citation-Archiver/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

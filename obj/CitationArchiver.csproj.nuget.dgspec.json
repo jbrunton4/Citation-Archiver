@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\CitationArchiver.csproj": {}
+    "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\CitationArchiver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\CitationArchiver.csproj": {
+    "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\CitationArchiver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\CitationArchiver.csproj",
+        "projectUniqueName": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\CitationArchiver.csproj",
         "projectName": "CitationArchiver",
-        "projectPath": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\CitationArchiver.csproj",
+        "projectPath": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\CitationArchiver.csproj",
         "packagesPath": "C:\\Users\\brunt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\obj\\",
+        "outputPath": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Blazored.Toast": {
-              "target": "Package",
-              "version": "[4.1.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

@@ -1,24 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OXmwJSxII3oUtNrcgUzl3fvPNNFQDlYNItxs7awxUzyy7kFO7K6nz5nwnz7d7i2hpqKIV8/UsfBhjBdobe50Jw==",
+  "dgSpecHash": "1iWNhlXkix8APf3zZ+/jfmKdENQ+MBa/mHPKldEQ2tONMk2rPDQWDA/y9Ms4G1gN45hwGzAb4VKcKdt8+spPog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brunt\\source\\repos\\CitationArchiver\\CitationArchiver.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\brunt\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.12\\microsoft.aspnetcore.authorization.6.0.12.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.12\\microsoft.aspnetcore.components.6.0.12.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.12\\microsoft.aspnetcore.components.analyzers.6.0.12.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.12\\microsoft.aspnetcore.components.forms.6.0.12.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.12\\microsoft.aspnetcore.components.web.6.0.12.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.12\\microsoft.aspnetcore.metadata.6.0.12.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\microsoft.jsinterop\\6.0.12\\microsoft.jsinterop.6.0.12.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
-    "C:\\Users\\brunt\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\brunt\\Documents\\GitHub\\Citation-Archiver\\CitationArchiver.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,3 @@
-using Blazored.Toast;
 using CitationArchiver.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;

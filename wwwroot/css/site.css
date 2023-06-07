@@ -1,8 +1,19 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1501290741922-b56c0d0884af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80");
+    background-size: cover;
+}
+
 .centered {
+    padding-top: 15vh;
+    padding-bottom: 15vh;
     width: 80%;
     height: 80%;
     margin: 10%;
     text-align: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 24px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
 }
 
 table {
@@ -11,19 +22,19 @@ table {
     margin-top: 5vh;
 }
 
-    table thead tr th {
-        background: #3b883e;
-        border: 2px solid #ffffff;
-        border-radius: 5px;
-    }
+table thead tr th {
+    background: #3b883e;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}
 
-    table tbody tr:nth-child(even) {
-        background-color: #b2b2b2;
-    }
+table tbody tr:nth-child(even) {
+    background-color: #b2b2b2;
+}
 
-    table tbody tr:nth-child(odd) {
-        background-color: transparent;
-    }
+table tbody tr:nth-child(odd) {
+    background-color: transparent;
+}
 
 #citations-input {
     width: 60%;
