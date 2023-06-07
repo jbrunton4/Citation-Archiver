@@ -1,0 +1,113 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
+
+<div class="centered">
+	<h1>Citation Archiver</h1>
+
+	<textarea id="citations-input" placeholder="Paste in your citations..." @bind="citations" /><br />
+
+	<button @onclick="@(async () => await ProcessCitations())">Do Stuff</button>
+
+	<table>
+
+		<thead>
+			<tr>
+				<th>Status</th>
+				<th>URL</th>
+			</tr>
+		</thead>
+
+		<tbody>
+			@for (int i = 0; i < responses.Count; i++)
+			{
+				<tr>
+					<td>
+						@if(responses[i]["StatusCode"] == "OK")
+						{
+							<span class="iconify" data-icon="mdi:check-circle"></span>
+						} else
+						{
+							<span class="iconify" data-icon="mdi:message-alert"></span>
+						}
+					</td>
+					<td>
+						<a href="@responses[i]["Url"]">@responses[i]["Url"]</a>
+					</td>
+				</tr>
+			}
+
+			@for (int i = 0; i < tasks.Count; i++)
+			{
+				<tr>
+					<td><span class="iconify loading" data-icon="mdi:loading"></span></td>
+					<td>@tasks[i]</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+</div>
+
+@code {
+
+	public string citations;
+	public List<string> tasks = new List<string>();
+	public List<Dictionary<string, string>> responses = new List<Dictionary<string, string>>();
+
+
+
+
+	async Task ProcessCitations()
+	{
+		/* 
+			* Method called via button press to process the citations and get
+			* archive.org URLs from them.
+			*/
+
+		Console.WriteLine(citations);
+		tasks = GetValidUrls(citations);
+
+
+		for (int i = 0; i < tasks.Count; i++)
+		{
+			string save_url = $"https://web.archive.org/save/{tasks[i]}";
+			responses.Add(await Get(save_url));
+			tasks.Remove(tasks[i]);
+		}
+
+
+	}
+
+
+	List<string> GetValidUrls(string inputString)
+	{
+		/* 
+			* Performs a regex check on every item in string.Split(' '),
+			* returns a List<string> of those which are valid URLs
+			*/
+		string[] inputStrings = inputString.Split();
+		string pattern = @"^(https?://)?(www\.)?([\w-]+\.)+[\w]+(/[\w-./?%&=]*)?$";
+
+		return inputStrings.Where(x => System.Text.RegularExpressions.Regex.IsMatch(x, pattern)).ToList();
+	}
+
+	protected async Task<Dictionary<string, string>> Get(string url)
+	{
+		/* 
+		 * HTTP Get method, returns a dictionary with a StatusCode, Reason and Url
+		 */
+
+		var httpResponse = await new System.Net.Http.HttpClient().GetAsync(url);
+		return new Dictionary<string, string> {
+				{ "StatusCode", httpResponse.StatusCode.ToString() },
+				{ "Reason", httpResponse.ReasonPhrase },
+				{ "Url", httpResponse.RequestMessage.RequestUri.ToString() }
+			};
+
+		
+	}
+
+}
